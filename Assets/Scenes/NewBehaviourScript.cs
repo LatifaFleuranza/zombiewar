@@ -13,6 +13,46 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+                Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("A");        
+Debug.Log("A");
+                Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("B");        
+Debug.Log("A");
+  Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("A");        
+Debug.Log("A");
+                Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("B");        
+Debug.Log("A");
+Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("A");        
+Debug.Log("A");
+                Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("B");        
+Debug.Log("A");
+  Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("A");        
+Debug.Log("A");
+                Debug.Log("A");        
+Debug.Log("A");      
+  Debug.Log("A");        
+Debug.Log("B");        
+Debug.Log("A");
+Debug.Log("A");
     }
 }
